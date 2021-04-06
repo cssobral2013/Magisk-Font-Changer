@@ -1,7 +1,7 @@
-id=201804036666
-name=Magisk Font Changer 
+id=cssobral2013-brisa-sans
+name=Fonts Brisa Sans
 version=v2
 versionCode=1
 author=Packy
-description=Change system fonts Systemlessly
+description=Apply Brisa Sans fonts system-wide & systemlessly
 minMagisk=1500
